@@ -1,6 +1,14 @@
 # ML Courses
 Here you will find all the Homework assignments I gave as teach assistant to my students along the years of teaching
 
+## Spring 2024
+### Homework 1:
+- Classifying wine data into categories using Gaussian Bayes vs Naive Bayes
+- Naive bayes on the famous emotions dataset
+- KNN Implementation and comparision to different metric with stars dataset.
+- Parzen window computation and proof questions.
+
+
 ## Winter 2024
 ### Homework 1:
 - Understanding linear regression and the impact of scaling
