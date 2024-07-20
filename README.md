@@ -8,6 +8,25 @@ Here you will find all the Homework assignments I gave as teach assistant to my 
 - KNN Implementation and comparision to different metric with stars dataset.
 - Parzen window computation and proof questions.
 
+### Homework 2:
+- Experiencing Logstic regression with toy example
+- Applying Logistic regression to real IMDB reviews dataset
+- Implement Perceptron
+- Nonlinear SVM - construct a kernel with specific shape to separate data vs other deafult kernels.
+
+### Homework 3:
+- Implement OVO SVM and analyzing hyperparameters and results for both separable and non separable cases
+- Applying linear regression and analyzing theoretical connections beween iters and gap, in both linear and ridge models
+- Implement (partially) decision tree with continious features and compare between different impurity types.
+- Theory of PAC (Probably Approximately Correct), VC dimension understanding and bias vs variance
+
+### Homework 4:
+- Implement Bagging of regressors and compare to previous task, tuning hyperparameters using cross validation
+- Implement (partially) Kmeans class and use it to quantize image.
+- Implement PCA on smiling-face dataset using KNN for classification and compare to LDA
+- Adaboost toy dataset classification.
+- ~~Implement NN with one fc layer and softmax (including backpropagation).~~ Depreacted due to war of 7/10.
+
 
 ## Winter 2024
 ### Homework 1:
